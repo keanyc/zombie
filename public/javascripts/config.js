@@ -1,0 +1,1 @@
+var killDistance = 30;

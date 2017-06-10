@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 50px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.zombie {
+  width: 30px;
+  height: 30px;
+  background: red;
+  position: absolute;
+}
+
+.player {
+  position: absolute;
+  top: 100px;
+  left: 500px;
+  width: 30px;
+  height: 30px;
+  background: blue;
+}
